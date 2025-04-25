@@ -15,4 +15,7 @@ log_file="$HOME/backup_log.txt"
 current_date=$(date +%Y/%m/%d_%H:%M:%S)
 backup_dir_with_date="$backup_dir/backup_$current_date"
 
+# Create backup directory
+mkdir -p "$backup_dir_with_date"
+
 
