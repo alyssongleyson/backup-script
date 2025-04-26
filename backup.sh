@@ -26,3 +26,7 @@ else
     # If the 'latest' directory does not exist, just copy the files
     rsync -av "$source_dir" "$backup_dir_with_date"
 fi
+
+# Update the latest directory
+rm -rf "$backup_dir/latest"
+ln -s "$backup_dir_with_date" "$backup_dir/latest"
