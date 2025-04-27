@@ -12,3 +12,11 @@ This is a Bash script designed to automate file backups on Linux systems. It cre
 - Automatically manages a latest symlink for quick access to the most recent backup
 
 - Logs each backup operation to a log file
+
+## Default Paths
+
+- Source: $HOME/Documents
+
+- Backup: $HOME/backup
+
+- Log file: $HOME/backup_log.txt
