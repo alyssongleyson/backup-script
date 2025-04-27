@@ -25,3 +25,22 @@ This is a Bash script designed to automate file backups on Linux systems. It cre
 
 - Bash shell
 - Linux host system
+
+## Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com:alyssongleyson/backup-script.git
+   cd backup-script.git
+   ```
+
+2. Make the script executable:
+	```bash
+	chmod +x backup-script.sh
+	```
+
+3. Run the script:
+	```bash
+	./backup-script.sh
+	```
+	
