@@ -20,3 +20,8 @@ This is a Bash script designed to automate file backups on Linux systems. It cre
 - Backup: $HOME/backup
 
 - Log file: $HOME/backup_log.txt
+
+## Requirements
+
+- Bash shell
+- Linux host system
