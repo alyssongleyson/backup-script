@@ -33,3 +33,5 @@ ln -s "$backup_dir_with_date" "$backup_dir/latest"
 
 # Log
 echo "Backup performed on $current_date" >> $log_file
+
+echo "Incremental backup completed!"
