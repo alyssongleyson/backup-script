@@ -30,7 +30,7 @@ This is a Bash script designed to automate file backups on Linux systems. It cre
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com:alyssongleyson/backup-script.git
+   git clone https://github.com/alyssongleyson/backup-script.git
    cd backup-script.git
    ```
 
