@@ -44,3 +44,7 @@ This is a Bash script designed to automate file backups on Linux systems. It cre
 	./backup-script.sh
 	```
 	
+## Author
+
+**Alysson Gleyson da Silva**  
+GitHub: [@alyssongleyson](https://github.com/alyssongleyson)
